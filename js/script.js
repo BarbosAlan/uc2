@@ -1,3 +1,3 @@
-window.onload = function() {
+/*window.onload = function() {
     alert("Seja bem-vindo à Jornada Viagens! ✈✈");
-}
+}*/
